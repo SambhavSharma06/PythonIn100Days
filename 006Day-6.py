@@ -17,4 +17,5 @@ print(type(e))
 print(type(f))
 print(type(g))
 print(type(h))
+
 print(type(i))
