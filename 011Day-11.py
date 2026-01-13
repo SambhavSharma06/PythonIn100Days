@@ -10,4 +10,5 @@ a
 print(name[0])
 
 for Letter in name:
+
   print(Letter)
