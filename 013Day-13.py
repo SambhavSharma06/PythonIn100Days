@@ -52,3 +52,4 @@ print(str12.isuppper())
 print(str12.startswith("Welcome"))
 print(str12.swapcase())
 print(str12.title())
+
