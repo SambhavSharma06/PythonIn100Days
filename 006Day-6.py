@@ -11,13 +11,11 @@ i={"name":"Sambhav","age":20,"city":"New Delhi"}#Dictionary
 print(type(a))
 print(type(b))
 print(type(c))
-
 print(type(d))
 print(type(e))
 print(type(f))
 print(type(g))
 print(type(h))
-
 print(type(i))
 
 
