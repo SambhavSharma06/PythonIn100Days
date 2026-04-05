@@ -1,5 +1,5 @@
 #Strings in Python!!
-name = "Samnhav Sharma"
+name = "Sambhav Sharma"
 
 print("""
 a
