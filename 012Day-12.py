@@ -7,4 +7,3 @@ print("Length of the name is:",length)
 print((name[0:2]))
 
 print((name[-5:-1]))
-
