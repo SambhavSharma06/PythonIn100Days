@@ -1,5 +1,4 @@
 #If Else Conditional Statements in Python!!
-
 a = 33
 b = 200
 
