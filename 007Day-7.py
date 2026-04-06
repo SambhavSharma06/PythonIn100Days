@@ -36,5 +36,3 @@ else:
     print("Invalid input")
 
 
-
-
