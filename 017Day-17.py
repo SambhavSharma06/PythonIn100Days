@@ -1,5 +1,4 @@
 #For Loops in Python!!
-
 name = "Python"
 
 for char in name:
