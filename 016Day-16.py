@@ -10,5 +10,3 @@ match Grade:
         print("50% to 59%")
     case _:
         print("Fail") 
-        
-e
