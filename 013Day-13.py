@@ -36,7 +36,7 @@ print(str9.find("3"))
 str10 = "He's a programmer"
 print(str10.index("programmer"))
 
-#As we can see, this method is somewhat similar to the find() method.
+# As we can see, this method is somewhat similar to the find() method.
 # The major difference being that index() raises an exception if value is absent whereas find() does not.
 
 str11 = "IAmSambhav"
