@@ -5,7 +5,6 @@ def name(fname,mname= "John", lname="Whatson"):
     
     name("Sherlock") #Default Argument
 
-
 def age(age1,age2,age3):
     print("Age is:", age1, age2, age3)  
     
