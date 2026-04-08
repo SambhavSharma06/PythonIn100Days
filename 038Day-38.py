@@ -1,5 +1,4 @@
 # Raise ValueError Python!!
-
 a = input("Enter any value between 5 and 9 (or type 'quit'): ")
 
 if a == "quit":
