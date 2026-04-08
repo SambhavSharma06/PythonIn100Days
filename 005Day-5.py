@@ -1,5 +1,5 @@
 #Comments, Escape Sequences & Print Statement!!
-# Don't gve up please!!
+# Don't give up please!!
 print("Day 5 completed successfully!\n"
       "see you tomorrow")
 '''
