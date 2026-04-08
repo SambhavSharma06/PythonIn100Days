@@ -2,7 +2,6 @@
 
 def name(fname,mname= "John", lname="Whatson"):
     print("Hello", fname, mname, lname)
-    
     name("Sherlock") #Default Argument
 
 def age(age1,age2,age3):
