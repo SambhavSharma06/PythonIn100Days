@@ -1,7 +1,7 @@
 #Set Methods in Python!!
-
 s1 = {1,2,5,6}
 s2 = {2,5,6}
+
 print(s1.union(s2))
 print(s1.intersection(s2))
 print(s1.difference(s2))
