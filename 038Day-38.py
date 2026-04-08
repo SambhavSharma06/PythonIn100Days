@@ -7,5 +7,5 @@ else:
     a = int(a)  # now safe to convert
     if a < 5 or a > 9:
         raise ValueError("Value is not an accepted value")
-
+        
 print("Accepted:", a)
