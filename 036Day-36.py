@@ -1,6 +1,6 @@
 #Exception Handling Python!!
-
 a = input("Enter a number: ")
+
 print(f"Multiplication table of {a} is: ")
 try:
     for i in range(1,11):
