@@ -92,7 +92,7 @@ for i in range(len(Questions)):
         print(f"💰 You fall back to your safe amount: {safe_amount}")
         print("💀 GAME OVER 💀")
         break  # This stops the entire game.
-
+        
 # If the loop finishes without break, it means the player won all 13 questions.
 else:
     print("\n🎉🎉 YOU DID IT!! 🎉🎉")
