@@ -32,7 +32,6 @@ str9 = "Python3"
 print(str9.find("3"))
 
 #-1 if it doesnt find the value btw!!!
-
 str10 = "He's a programmer"
 print(str10.index("programmer"))
 
