@@ -8,8 +8,6 @@ def func1():
     except:
         print("Index out of range")
         return 0
-
-
     finally:
       print("Ending program")
 # print("I am always executed")
