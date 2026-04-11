@@ -7,7 +7,7 @@ print(tup[0])
 
 print(len(tup))
 
-print(tup[-1])e
+print(tup[-1])
 
 print(tup[1:5])
 
