@@ -1,5 +1,4 @@
 #List in Pythons!!
-
 Name = ["Sam, John, Peter, Paul"]
 print(Name)
 
