@@ -7,6 +7,6 @@ try:
      print(f"{int(a)} X {i} = {int(a)*i}")
 except Exception as e:
  print("Invalid Input!")
-
+    
 print("Some lines of code")
 print("End of program")
