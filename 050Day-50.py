@@ -1,5 +1,4 @@
 #The read(), readlines() and other methods in python!!
-
 # f = open("Day-50.0.txt","r")
 # i = 0
 # while True:
