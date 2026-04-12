@@ -31,7 +31,6 @@ if choice == "1":
 
 #DECODE
 
-
 elif choice == "2":
     coded_word = input("Enter the coded word: ")
 
