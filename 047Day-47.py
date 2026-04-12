@@ -1,5 +1,4 @@
 #Solutions and Shoutouts in Python
-
 st = input("Enter a message: ")
 words = st.split(" ")
 
