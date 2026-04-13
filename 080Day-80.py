@@ -1,5 +1,4 @@
 # Multilevel Inheritance in Python!!
-
 # Base class
 class Grandfather:
     def house(self):
