@@ -6,7 +6,7 @@ def gen():
             yield i
 
 g = gen()
-
+#It will print one by one!!
 print(next(g))
 print(next(g))
 print(next(g))
