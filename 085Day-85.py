@@ -1,5 +1,4 @@
 # Creating command line utility in python!!
-
 import argparse
 
 parser = argparse.ArgumentParser(description="Example CLI tool")
