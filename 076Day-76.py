@@ -1,5 +1,4 @@
 # Exercise 8 - Merge the Pdf in Python!!
-
 from PyPDF2 import PdfMerger
 
 # Create a PdfMerger object
