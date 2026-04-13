@@ -1,7 +1,7 @@
 #Exercise 9 - Shoutouts to Everyone in Python ANS!!
-
 from gtts import gTTS
 import os
+
 mytext = input("Enter your text: ")
 language = 'en'
 
