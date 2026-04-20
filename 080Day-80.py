@@ -3,7 +3,7 @@
 class Grandfather:
     def house(self):
         print("Grandfather has a house")
-
+        
 # Inherits from Grandfather
 class Father(Grandfather):
     def car(self):
