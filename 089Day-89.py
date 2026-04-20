@@ -4,7 +4,7 @@ import time
 
 while True:
     url = "https://api.coingecko.com/api/v3/simple/price"
-
+    
     params = {
         "ids": "bitcoin",
         "vs_currencies": "usd"
