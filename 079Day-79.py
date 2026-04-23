@@ -4,7 +4,7 @@ class Animal:
     def __init__(self, name,species):
         self.name = name
         self.species = species
-
+        
     def show_details(self):
         print(f"Name: {self.name}")
         print(f"Species: {self.species}")
