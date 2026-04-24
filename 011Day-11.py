@@ -1,6 +1,5 @@
 #Strings in Python!!
 name = "Sambhav Sharma"
-
 print("""
 a
 a
