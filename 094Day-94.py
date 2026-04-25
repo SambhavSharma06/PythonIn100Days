@@ -4,7 +4,6 @@
 from win10toast import ToastNotifier   # for showing notifications
 import time                            # for waiting
 
-
 # This creates our "notification buddy"
 toaster = ToastNotifier()
 
