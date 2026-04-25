@@ -1,5 +1,4 @@
 #Snake Water Gun Game in Python!!
-
 import random
 
 def check(comp,user):
