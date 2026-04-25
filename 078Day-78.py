@@ -24,12 +24,12 @@ class Cat(Animal):
     def make_sound(self):
         print("Sound made by the Cat.")
 
-d = Dog("Dog","Sam")
+d = Dog("Dog", "Sam")
 d.make_sound()
 
-a = Animal("Animal","dog")
+a = Animal("Animal", "dog")
 a.make_sound()
 
 #Quiz
-C = Cat("Cat","CAT")
+C = Cat("Cat", "CAT")
 C.make_sound()
