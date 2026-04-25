@@ -7,9 +7,9 @@ class Person:
 
     def info(self):
         print(f"{self.name} is a {self.occ}")
-
-a = Person("Harry","Developer")
-b = Person("Divya","HR")
+        
+a = Person("Harry", "Developer")
+b = Person("Divya", "HR")
 # c = Person(1,2, 3)#Wrong
 a.info()
 b.info()
