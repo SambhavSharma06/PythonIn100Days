@@ -19,4 +19,3 @@ class WorkOut:
         print(self.name)
 WorkOut1 = WorkOut(WorkOut.GuyName)
 print(WorkOut1.GuyName)
-
