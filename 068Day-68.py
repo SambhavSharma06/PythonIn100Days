@@ -1,4 +1,4 @@
-#Clear the clustar in Python!!
+#Clear the cluster in Python!!
 
 import os
 
