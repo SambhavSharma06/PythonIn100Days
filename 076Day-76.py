@@ -1,4 +1,4 @@
-# Exercise 8 - Merge the Pdf in Python!!
+# Exercise 8 - Merge the PDF in Python!!
 from PyPDF2 import PdfMerger
 
 # Create a PdfMerger object
@@ -7,8 +7,8 @@ merger = PdfMerger()
 # List of PDF files in order
 pdf_files = [
     "1.CV.pdf",
-    "2.Customer Invoice (Paid).pdf",
-    "3.Customer Invoice.pdf"
+    "2. Customer Invoice (Paid).pdf",
+    "3. Customer Invoice.pdf"
 ]
 
 # Append each PDF
