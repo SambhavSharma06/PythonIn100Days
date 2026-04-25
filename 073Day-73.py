@@ -2,7 +2,7 @@
 class Box:
     def __init__(self, *items):
         self.items = list(items)
-
+        
     def __str__(self):
         return str(self.items)
 
