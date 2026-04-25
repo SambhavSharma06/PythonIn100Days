@@ -1,5 +1,4 @@
 # Data Science Roadmap in python!!
-#
 # 🚀 Data Science Roadmap (2026+)
 # 🧠 Phase 1: Core Foundations (0–2 months)
 # This is where most people rush — don’t.
