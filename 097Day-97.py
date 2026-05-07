@@ -6,7 +6,7 @@ def task(name):
     print(f"Starting {name}")
     time.sleep(2)
     print(f"Finished {name}")
-
+    
 t1 = threading.Thread(target=task, args=("Thread-1",))
 t2 = threading.Thread(target=task, args=("Thread-2",))
 
