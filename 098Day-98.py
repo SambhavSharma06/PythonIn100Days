@@ -1,6 +1,5 @@
 # MultiProcessing in Python!!
 import time
-
 from multiprocessing import Pool
 
 def count(n):
