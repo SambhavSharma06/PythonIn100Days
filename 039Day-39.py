@@ -2,7 +2,7 @@
 #   KAUN BANEGA CROREPATI (KBC) GAME
 #   With checkpoints + easy-to-understand notes
 # --------------------------------------------
-
+l
 print("Kaun Banega Crorepati")
 
 # These are all the questions the player will answer in order.
