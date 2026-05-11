@@ -7,4 +7,3 @@ def numbersAddition(num1, num2):
     return num1 + num2
     
 print(numbersAddition(5, 10))
-
