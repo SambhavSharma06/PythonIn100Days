@@ -44,11 +44,9 @@ print(str11.isalpha())
 print(str11.islower())
 print(str11.printable())
 print(str11.isspace())
-
 str12 = "Welcome To Python"
 print(str12.istitle())
 print(str12.isuppper())
 print(str12.startswith("Welcome"))
 print(str12.swapcase())
 print(str12.title())
-
