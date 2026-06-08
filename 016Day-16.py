@@ -9,4 +9,4 @@ match Grade:
     case "C":
         print("50% to 59%")
     case _:
-        print("Fail") 
+        print("Fail")
