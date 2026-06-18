@@ -1,8 +1,8 @@
 #Dictionaries in Python!!
 
 dic = {
-    "name":"Harry",
-    "age":20,
+    "name": "Harry",
+    "age": 20,
 }
 
 print(dic)
