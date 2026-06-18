@@ -3,7 +3,7 @@ count = 5
 
 while (count > 0):
     print(count)
-    count = counte - 1
+    count = count - 1
     
 x = 5
 while (x > 0):
