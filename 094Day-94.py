@@ -39,3 +39,4 @@ while True:
 
     # Now we chill for 10 minutes before the next reminder
     time.sleep(seconds)
+    
