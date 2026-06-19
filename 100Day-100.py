@@ -84,6 +84,7 @@
 # They jump topics too fast
 # 👉 Your rule:
 # Learn → Build → Repeat
+
 # 📅 Simple Weekly Plan
 # 2 hours: Learning
 # 2 hours: Practice
