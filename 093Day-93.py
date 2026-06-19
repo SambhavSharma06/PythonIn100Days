@@ -7,3 +7,4 @@ data = response.json()
 
 for article in data["articles"]:
     print(article["title"])
+
