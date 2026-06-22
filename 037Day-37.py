@@ -1,4 +1,4 @@
-#Finally keyword in Python !!
+#Finally keyword in Python !
 def func1():
     try:
         l = [1, 5, 6, 7]
