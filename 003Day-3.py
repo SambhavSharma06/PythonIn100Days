@@ -11,5 +11,6 @@ import keras
 import xgboost
 import lightgbm
 import catboost
+import barcode
 import streamlit
 Print("All libraries imported successfully!")
