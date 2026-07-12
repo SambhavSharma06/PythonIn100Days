@@ -8,6 +8,7 @@ f=[1,2,3,4,5]#List
 g=(1,2,3,4,5)#Tuple
 h={1,2,3,4,5}#Set
 i={"name":"Sambhav","age":20,"city":"New Delhi"}#Dictionary
+j = (1,2,3,4,5,6,7)# tuple
 print(type(a))
 print(type(b))
 print(type(c))
@@ -17,3 +18,4 @@ print(type(f))
 print(type(g))
 print(type(h)) 
 print(type(i))
+pront(type)(j)
