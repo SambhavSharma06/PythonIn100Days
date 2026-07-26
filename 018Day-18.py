@@ -12,4 +12,3 @@ while (x > 0):
     
 else:
     print("Countdown finished!")
-    
