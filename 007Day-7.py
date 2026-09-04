@@ -8,7 +8,6 @@ print("Select operation:"
       "\n4.Division For division type /"
       "\n5.Exit For exit type EXIT")
 print(input("Enter operation: "))
-
 if(input=='+'):
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
