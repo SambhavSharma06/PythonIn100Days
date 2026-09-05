@@ -29,4 +29,3 @@ print(type(g))
 print(type(h)) 
 print(type(i))
 print(type(j))
-
