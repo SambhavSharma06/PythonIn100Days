@@ -4,4 +4,3 @@ print(4+3);
 print("Sambhav Sharma");
 print("SamKal");
 print("Kaal");
-sam
