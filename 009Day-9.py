@@ -4,4 +4,4 @@ b = "3"
 a1 = "7"
 b1 = "9"
 print(int(a) + int(b))
-print(int(a1) + int(b1))
+print(int(a1) + int(b1)
