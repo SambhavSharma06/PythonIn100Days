@@ -17,7 +17,7 @@ h={1,2,3,4,5}#Set
 h1 = {6,7,8,9,0}
 i={"name":"Sambhav","age":20,"city":"New Delhi"}#Dictionary
 i1 = {"id":7,"name":"Sam"}
-j = (1,2,3,4,5,6,7)# tuple
+j = (1,2,3,4,5,6,7)# tuples
 j1 = (8,9,10,11)
 print(type(a))
 print(type(b))
