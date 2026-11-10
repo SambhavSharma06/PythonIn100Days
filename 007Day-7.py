@@ -32,6 +32,7 @@ elif(input=='/'):
 elif(input=='EXIT'):
     print("Exiting the Calculator Program. Goodbye!")
     print(exit)
+      
 else:
     print("Invalid input")
 
