@@ -2,7 +2,7 @@
 #CALCULATOR
 print("Welcome to the Calculator Program")
 print("Select operation:"
-      "\n1.Addition For adittion type +"
+    "\n1.Addition For adittion type +"
       "\n2.Subtraction For subtraction type -"
       "\n3.Multiplication For multiplication type *"
       "\n4.Division For division type /"
