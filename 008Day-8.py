@@ -1,2 +1,2 @@
-e#Relax DAY
+#Relax DAY
 #Gitas
